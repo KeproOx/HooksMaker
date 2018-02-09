@@ -1,0 +1,15 @@
+C:\Users\Guillaume\Desktop\C#\HookahMaker\bin\Debug\HookahMaker.exe.config
+C:\Users\Guillaume\Desktop\C#\HookahMaker\bin\Debug\HookahMaker.exe
+C:\Users\Guillaume\Desktop\C#\HookahMaker\bin\Debug\HookahMaker.pdb
+C:\Users\Guillaume\Desktop\C#\HookahMaker\obj\Debug\HookahMaker.csprojResolveAssemblyReference.cache
+C:\Users\Guillaume\Desktop\C#\HookahMaker\obj\Debug\MainWindow.g.cs
+C:\Users\Guillaume\Desktop\C#\HookahMaker\obj\Debug\App.g.cs
+C:\Users\Guillaume\Desktop\C#\HookahMaker\obj\Debug\HookahMaker_MarkupCompile.cache
+C:\Users\Guillaume\Desktop\C#\HookahMaker\obj\Debug\HookahMaker_MarkupCompile.lref
+C:\Users\Guillaume\Desktop\C#\HookahMaker\obj\Debug\MainWindow.baml
+C:\Users\Guillaume\Desktop\C#\HookahMaker\obj\Debug\HookahMaker.g.resources
+C:\Users\Guillaume\Desktop\C#\HookahMaker\obj\Debug\HookahMaker.Properties.Resources.resources
+C:\Users\Guillaume\Desktop\C#\HookahMaker\obj\Debug\HookahMaker.csproj.GenerateResource.Cache
+C:\Users\Guillaume\Desktop\C#\HookahMaker\obj\Debug\HookahMaker.csproj.CoreCompileInputs.cache
+C:\Users\Guillaume\Desktop\C#\HookahMaker\obj\Debug\HookahMaker.exe
+C:\Users\Guillaume\Desktop\C#\HookahMaker\obj\Debug\HookahMaker.pdb
